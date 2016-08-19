@@ -1,5 +1,5 @@
 {
-  "name": "NoConnection",
+  "name": "NoConnectionMac",
   "description": "Give no internet connection on every page",
   "version": "2.0",
   "permissions": [
